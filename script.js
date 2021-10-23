@@ -1,4 +1,4 @@
-IP = '31.135.144.218'
+IP = bts
 PORT = 62626
 PROTOCOL = 'ws' //ws or wss PROTOCOL
 
