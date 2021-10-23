@@ -3,6 +3,7 @@ PORT = 62626
 PROTOCOL = 'ws' //ws or wss PROTOCOL
 
 
+
 var canvas = document.querySelector("canvas");
 var ctx = canvas.getContext("2d");
 var form = document.querySelector("form");
