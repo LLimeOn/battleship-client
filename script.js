@@ -14,7 +14,7 @@ const codeInput =  document.querySelector('#code_input');
 var joinBtns = document.getElementsByClassName('join_game');
 var blocks = document.getElementsByClassName('block');
 
-var pingSnd = new Audio("sounds/ping.ogg");
+var pingSnd = new Audio("https://llimeon.github.io/battleship-client/sounds/ping.ogg");
 
 
 const field_startX = 30;
