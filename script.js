@@ -1,4 +1,4 @@
-IP = bsf
+IP = dsf
 PORT = 62626
 PROTOCOL = 'ws' //ws or wss PROTOCOL
 
